@@ -46,15 +46,15 @@
 ## 📊 GitHub Analytics & Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metwally-ai&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MetwallyEslam21&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metwally-ai&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MetwallyEslam21&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metwally-ai&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MetwallyEslam21&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
