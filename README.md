@@ -68,7 +68,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/metwally-eslam-398098283)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/metwally-ai)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MetwallyEslam21)  
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:metwallyeslam40@gmail.com)  
 
 ---
